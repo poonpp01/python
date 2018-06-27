@@ -18,7 +18,7 @@ CREATE TABLE table_name (
 + column_1 data_type คือ ชื่อคอลัมน์ และ ประเภทของข้อมูลที่เกี่ยวข้อง
 --- 
 ### Insert
-```
+```bash
 INSERT INTO celebs (id, name, age) 
 VALUES (1, 'Justin Bieber', 21);
 ```
