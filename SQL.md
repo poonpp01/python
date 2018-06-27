@@ -6,7 +6,7 @@ SQL เป็นภาษาโปรแกรมที่ออกแบบม�
 
 ---
 ### Create
-```
+```js
 CREATE TABLE table_name (
    column_1 data_type, 
    column_2 data_type, 
