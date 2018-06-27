@@ -12,7 +12,7 @@ CREATE TABLE table_name (
    column_2 data_type, 
    column_3 data_type
 );
-```
+```bash
  CREATE  เป็นคำสั่งที่ทำงานเฉพาะใน SQL โดยข้อความจะต้องถูกเขียนเป็นตัวพิมพ์ใหญ่
 + table_name หมายถึงชื่อของตารางข้อมูลที่เราต้องการนำไปใช้
 + column_1 data_type คือ ชื่อคอลัมน์ และ ประเภทของข้อมูลที่เกี่ยวข้อง
